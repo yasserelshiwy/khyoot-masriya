@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
 
-// import FloatingImages from "./FloatingImages";
 export default function Header({ headerImage }) {
   const container = {
     hidden: {},
@@ -32,7 +31,7 @@ export default function Header({ headerImage }) {
         <motion.img
           src={headerImage}
           alt="header"
-          className="w-100"
+          className="w-100  rounded-[45%] bg-transparent backdrop-blur-2xl"
           variants={item}
           whileHover={{ scale: 1.05, rotate: 1 }}
           transition={{ type: "spring", stiffness: 200 }}
