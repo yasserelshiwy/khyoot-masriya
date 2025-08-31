@@ -13,7 +13,7 @@ import { motion, useReducedMotion } from "framer-motion";
 const links = [
   {
     label: "Khyoot Masriya Store",
-    url: "https://khyootmasryai.myshopify.com/en-eg?pb=0",
+    url: "https://khyootmasriya.com/",
     icon: faShoppingBag,
   },
   {
