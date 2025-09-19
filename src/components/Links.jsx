@@ -24,11 +24,15 @@ const links = [
   { label: "WhatsApp", url: "https://wa.me/201553414673", icon: faWhatsapp },
   {
     label: "Instagram",
-    url: "https://instagram.com/yourbrand",
+    url: "https://www.instagram.com/khyootmasriya/?hl=en",
     icon: faInstagram,
   },
 
-  { label: "TikTok", url: "https://tiktok.com/@yourbrand", icon: faTiktok },
+  {
+    label: "TikTok",
+    url: "https://www.tiktok.com/@khyoot_masriya",
+    icon: faTiktok,
+  },
   { label: "X", url: "https://x.com/KhyootMasriya", icon: faXTwitter },
   {
     label: "LinkedIn",
